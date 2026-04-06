@@ -1,0 +1,161 @@
+SOFTWARE DEVELOPMENT AND LICENSING AGREEMENT
+
+This Software Development and Licensing Agreement ("Agreement") is entered into as of January 15, 2025 ("Effective Date") by and between:
+
+Meridian Technologies LLC, a Delaware limited liability company with its principal place of business at 1200 Innovation Drive, Suite 400, Austin, Texas 78701 ("Developer")
+
+and
+
+Crestwood Financial Group Inc., a New York corporation with its principal place of business at 350 Park Avenue, 12th Floor, New York, New York 10022 ("Client")
+
+---
+
+ARTICLE 1 — DEFINITIONS
+
+1.1 "Software" means the proprietary financial data analytics platform to be developed by Developer pursuant to this Agreement, including all source code, object code, documentation, and related materials.
+
+1.2 "Deliverables" means all work product, code, designs, reports, and documentation produced by Developer under this Agreement.
+
+1.3 "Intellectual Property Rights" means all patents, copyrights, trademarks, trade secrets, and other proprietary rights.
+
+1.4 "Confidential Information" means any non-public information disclosed by either party that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information.
+
+1.5 "Go-Live Date" means the date on which the Software is deployed to Client's production environment and accepted by Client following successful completion of User Acceptance Testing.
+
+---
+
+ARTICLE 2 — SCOPE OF WORK
+
+2.1 Developer agrees to design, develop, test, and deliver a financial data analytics platform ("Platform") with the following core features:
+
+(a) Real-time integration with Bloomberg Terminal and Reuters Eikon data feeds
+(b) Automated risk scoring engine capable of processing minimum 50,000 transactions per hour
+(c) Regulatory compliance reporting module supporting SEC, FINRA, and MiFID II requirements
+(d) Custom dashboard with role-based access controls for up to 500 concurrent users
+(e) Mobile application for iOS and Android supporting read-only portfolio monitoring
+
+2.2 Developer shall complete development in four phases as outlined in Exhibit A — Project Timeline attached hereto.
+
+2.3 Any changes to the scope of work must be documented in a written Change Order signed by both parties. Change Orders may affect timeline and cost.
+
+---
+
+ARTICLE 3 — PAYMENT TERMS
+
+3.1 Client agrees to pay Developer a total fixed fee of $840,000 for completion of all Deliverables as specified in this Agreement.
+
+3.2 Payment shall be made according to the following milestone schedule:
+
+(a) $168,000 (20%) due upon execution of this Agreement
+(b) $210,000 (25%) due upon completion of Phase 1 — Architecture and Design
+(c) $210,000 (25%) due upon completion of Phase 2 — Core Development
+(d) $168,000 (20%) due upon completion of Phase 3 — Testing and QA
+(e) $84,000 (10%) due upon Go-Live Date and final acceptance
+
+3.3 Invoices are due within 30 days of receipt. Late payments accrue interest at 1.5% per month.
+
+3.4 Client shall reimburse Developer for pre-approved expenses exceeding $500 within 15 days of receiving receipts.
+
+---
+
+ARTICLE 4 — INTELLECTUAL PROPERTY
+
+4.1 All Deliverables created specifically for Client under this Agreement shall be considered works made for hire. Client shall own all Intellectual Property Rights in such Deliverables upon receipt of full payment.
+
+4.2 Developer retains ownership of all pre-existing intellectual property, tools, frameworks, and libraries used in development ("Developer IP"). Developer grants Client a perpetual, non-exclusive, royalty-free license to use Developer IP solely as incorporated in the Deliverables.
+
+4.3 Developer shall not use Client's Confidential Information to develop products or services for any competitor of Client in the financial services industry for a period of 24 months following termination of this Agreement.
+
+---
+
+ARTICLE 5 — CONFIDENTIALITY
+
+5.1 Each party agrees to keep the other party's Confidential Information strictly confidential and not to disclose it to any third party without prior written consent.
+
+5.2 Confidentiality obligations shall survive termination of this Agreement for a period of 5 years.
+
+5.3 Confidentiality obligations do not apply to information that: (a) is or becomes publicly available through no fault of the receiving party; (b) was already known to the receiving party prior to disclosure; (c) is required to be disclosed by law or court order.
+
+---
+
+ARTICLE 6 — WARRANTIES AND REPRESENTATIONS
+
+6.1 Developer warrants that the Software will perform materially in accordance with the specifications in Exhibit A for a period of 12 months following the Go-Live Date ("Warranty Period").
+
+6.2 During the Warranty Period, Developer shall remedy any material defects at no additional cost to Client within the following timeframes:
+
+(a) Critical defects (system down or data loss): 4 hours response, 24 hours resolution
+(b) Major defects (core feature unavailable): 8 hours response, 72 hours resolution
+(c) Minor defects (non-critical issues): 48 hours response, 2 weeks resolution
+
+6.3 Developer warrants that it has the right to enter into this Agreement and that the Deliverables will not infringe any third party Intellectual Property Rights.
+
+---
+
+ARTICLE 7 — LIMITATION OF LIABILITY
+
+7.1 In no event shall either party be liable for indirect, incidental, special, or consequential damages arising out of this Agreement, even if advised of the possibility of such damages.
+
+7.2 Developer's total aggregate liability under this Agreement shall not exceed the total fees paid by Client in the 6 months preceding the event giving rise to liability.
+
+7.3 The limitations in this Article shall not apply to: (a) breaches of confidentiality obligations; (b) gross negligence or willful misconduct; (c) indemnification obligations.
+
+---
+
+ARTICLE 8 — TERMINATION
+
+8.1 Either party may terminate this Agreement for cause if the other party materially breaches this Agreement and fails to cure such breach within 30 days of written notice.
+
+8.2 Client may terminate this Agreement for convenience upon 60 days written notice to Developer. In such event, Client shall pay Developer for all work completed through the termination date plus a termination fee equal to 15% of the remaining contract value.
+
+8.3 Developer may suspend work if Client's payment is more than 15 days overdue, after providing 5 days written notice to Client.
+
+8.4 Upon termination, each party shall return or destroy the other party's Confidential Information within 10 business days.
+
+---
+
+ARTICLE 9 — DISPUTE RESOLUTION
+
+9.1 The parties agree to attempt to resolve any dispute through good faith negotiation for a period of 30 days before pursuing other remedies.
+
+9.2 If negotiation fails, disputes shall be resolved through binding arbitration administered by the American Arbitration Association under its Commercial Arbitration Rules.
+
+9.3 Arbitration shall take place in Austin, Texas. The arbitrator's decision shall be final and binding and may be entered as a judgment in any court of competent jurisdiction.
+
+9.4 Notwithstanding the above, either party may seek injunctive relief in a court of competent jurisdiction to prevent irreparable harm.
+
+---
+
+ARTICLE 10 — GENERAL PROVISIONS
+
+10.1 Governing Law — This Agreement shall be governed by the laws of the State of Texas without regard to conflict of law principles.
+
+10.2 Entire Agreement — This Agreement, including all Exhibits, constitutes the entire agreement between the parties and supersedes all prior negotiations, representations, and agreements.
+
+10.3 Amendment — This Agreement may only be amended by a written document signed by authorized representatives of both parties.
+
+10.4 Severability — If any provision of this Agreement is found to be unenforceable, the remaining provisions shall continue in full force and effect.
+
+10.5 Notices — All notices must be in writing and delivered by email with read receipt or overnight courier to the addresses listed above.
+
+10.6 Force Majeure — Neither party shall be liable for delays caused by circumstances beyond their reasonable control, including natural disasters, war, or government action.
+
+10.7 Independent Contractor — Developer is an independent contractor. Nothing in this Agreement creates an employment, partnership, or joint venture relationship.
+
+---
+
+SIGNATURES
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+MERIDIAN TECHNOLOGIES LLC
+
+Name: Jonathan Reed
+Title: Chief Executive Officer
+Date: January 15, 2025
+
+CRESTWOOD FINANCIAL GROUP INC.
+
+Name: Patricia Holloway
+Title: Chief Technology Officer
+Date: January 15, 2025
